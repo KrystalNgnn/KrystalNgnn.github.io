@@ -1,0 +1,59 @@
+
+
+.card1
+{
+	background-color: darkgreen;
+	width: 700px;
+	height: 700px;
+	position: absolute;
+
+}
+
+
+.boxStyle
+{
+	background-color: beige;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 10px;
+
+}
+
+
+.twentyfive
+{
+	margin-left: 55px;
+}
+
+
+.item
+{
+	background-color: beige;
+	color: black;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	display: inline-block;
+	margin: 8px;
+	font-size: 30px;
+	font-family: Arial;
+	text-align: center;
+
+}
+
+
+.item1
+{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	margin-left: 70px;
+	font-family: Arial;  
+	
+}
+
+.item:hover{
+	background-color: red;
+}
