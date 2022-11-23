@@ -1,0 +1,177 @@
+
+/*bingo sheet style*/
+.bingoSheet 
+{
+	position: relative;
+
+	
+}
+
+
+.card1
+{
+	background-color: black;
+	width: 700px;
+	height: 800px;
+	position: absolute;
+
+}
+
+
+
+
+
+#a1, #a2, #a3, #a4, #a5, #b1, #b2, #b3, #b4, #b5,#c1,#c2, #c4, #c5, #d1,#d2, #d3, #d4, #d5,
+#e1,#e2, #e3, #e4, #e5
+{
+	background-color: beige;
+	width: 100px;
+	height: 50px;
+	display: inline-block;
+	color: black;
+	position: relative;
+	margin: 8px;
+	font-size: 45px;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+
+
+}
+
+
+
+.twentyfive
+{
+	margin-left: 55px;}
+	
+
+
+
+#c3 {
+	background-color: red;
+	color: black;
+	width: 100px;
+	height: 50px;
+	position: relative;
+	display: inline-block;
+	margin: 8px;
+	font-size: 45px;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;}
+
+
+
+	
+
+
+#b{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 85px;
+	
+}
+
+
+#i{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 82px;
+	
+}
+
+
+#n{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 73px;
+	
+}
+
+
+#g{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 59px;
+	
+}
+
+
+#o{
+	color: beige;
+	font-size: 80px;
+	position: relative;
+	display: inline-block;
+	font-family: Arial;
+	margin-left: 54px;
+	
+}
+
+
+
+
+
+
+/*number generator style*/
+
+#generator {
+	background-color: black;
+	border: none;
+	border-radius: 8px;
+	padding: 32px 25px;
+	box-shadow: 5px 10px 18px #DADCDA;
+	font-size: 24px;
+	color: white;
+	opacity: 0.9;
+	transition: 0.3s;
+	margin-left: 60%;
+	
+}
+
+#generator:hover {opacity: 1;}
+
+#generator:hover {background-color: lightgrey;}
+
+
+/*#clear {
+	background-color: #B1B6B1;
+	border: none;
+	border-radius: 8px;
+	padding: 32px 25px;
+	box-shadow: 5px 10px 18px #DADCDA;
+	font-size: 24px;
+	color: white;
+	opacity: 0.9;
+	transition: 0.3s;
+	cursor: pointer;
+	margin-left: 44%;
+	margin-top: 30px;
+}
+
+#clear:hover {opacity: 1;}*/
+
+#number { 
+	font-family: arial;
+	font-size: 100px;
+	margin-left: 65%;
+	margin-top: -40%;
+	margin-bottom: -5px;
+
+	
+ }
